@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ifs-sharepoint-client-side-solution",
+    "id": "5bd6550d-339a-403c-9013-aaeaaaff12eb",
+    "version": "2.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/ifs-sharepoint.sppkg"
+  }
+}
